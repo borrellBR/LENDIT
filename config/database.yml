@@ -78,7 +78,4 @@ test:
 # for a full overview on how database connection configuration can be specified.
 #
 production:
-  <<: *default
-  database: len_dit_production
-  username: len_dit
-  password: <%= ENV["LEN_DIT_DATABASE_PASSWORD"] %>
+ url: <%= ENV['DATABASE_URL'] %>
