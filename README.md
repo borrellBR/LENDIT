@@ -1,6 +1,8 @@
 # LENDit
 
-LENDit is a web application where users can lend and borrow items from other users for a specific period of time. It is built using Ruby on Rails, HTML, SCSS, and JavaScript, providing a platform for managing and displaying content with seamless media integration through Cloudinary.
+LENDit is a web application where users can lend and borrow items from other users for a specific period of time. 
+
+It is built using Ruby on Rails, HTML, SCSS, and JavaScript, providing a platform for managing and displaying content with seamless media integration through Cloudinary.
 
 ---
 
@@ -66,15 +68,3 @@ rails s
 Now you can access the application at [http://localhost:3000](http://localhost:3000).
 
 ---
-
-## Contributing
-
-Feel free to fork this project, make improvements, and create pull requests. Contributions are always welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like any further changes!
