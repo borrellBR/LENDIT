@@ -25,13 +25,13 @@ It is built using Ruby on Rails, HTML, SCSS, and JavaScript, providing a platfor
 ## Needed Technologies
 To run and develop the LENDit application, you will need the following technologies installed on your computer:
 
-Ruby (3.1.x or higher)
-Rails (6.x or higher)
-Node.js and Yarn (for handling JavaScript dependencies)
-Git (for version control)
-Database (SQLite, PostgreSQL, or MySQL)
-Bundler (for managing Ruby gems)
-Cloudinary account (optional, for image management)
+- **Ruby** (3.1.x or higher)
+- **Rails** (6.x or higher)
+- **Node.js** and Yarn (for handling JavaScript dependencies)
+- **Git** (for version control)
+- **Database** (SQLite, PostgreSQL, or MySQL)
+- **Bundler** (for managing Ruby gems)
+- **Cloudinary account** (optional, for image management)
 
 Ensure that you have these tools set up before starting the setup process.
 
