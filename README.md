@@ -36,6 +36,13 @@ git clone https://github.com/borrellBR/LENDit.git
 
 ### 2. Install Dependencies
 
+Make sure that you are in the LENDit folder that just got created:
+
+```bash
+cd LENDit
+```
+
+
 Install the required gems and packages using Bundler:
 
 ```bash
