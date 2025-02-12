@@ -4,6 +4,10 @@ LENDit is a web application where users can lend and borrow items from other use
 
 It is built using Ruby on Rails, HTML, SCSS, and JavaScript, providing a platform for managing and displaying content with seamless media integration through Cloudinary.
 
+### Check images to get an idea of web application and It's functionalities:
+
+https://drive.google.com/drive/folders/1_3nK1LDsE0n45Lm-9hveUfKGODN1aF-E?usp=sharing
+
 ---
 
 ## Features
