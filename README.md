@@ -51,6 +51,8 @@ bundle install
 
 ### 3. Configure Environment Variables
 
+Open the project in your code editor.
+
 Create a `.env` file in the root directory of the project and add the following environment variables:
 
 **(This is necessary to be able to see the product images and get a better understanding, but not mandatory to run the web app)**
